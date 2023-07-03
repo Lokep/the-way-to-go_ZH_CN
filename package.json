@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev eBook",
+    "docs:build": "vitepress build eBook",
+    "docs:preview": "vitepress preview eBook"
+  }
+}
